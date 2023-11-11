@@ -1,0 +1,137 @@
+:root {
+  /* font-family: 'Alumni Sans', sans-serif; */
+  --ff-alumni-sans: "Alumni Sans", sans-serif;
+  /* --ff-100: 'font-size: 100'; */
+
+  --black-200: #020202;
+  --black-300: #333333;
+  --black-400: #1f1e31;
+  --black-500: #555555;
+  --gray-100: #888888;
+  --black-transparent: rgba(0, 0, 0, 0.5);
+  --black-transparent-light: rgba(0, 0, 0, 0.4);
+  --black-transparent-hover: rgba(0, 0, 0, 1);
+}
+
+body,
+html {
+  height: 100%;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--ff-alumni-sans);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Custom styles for Navbar */
+.opacity-hover-off {
+  background-color: var(--black-transparent);
+}
+
+.opacity-hover-off:hover {
+  background-color: var(--black-transparent-hover);
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  font-size: 1.2rem;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Hide on small screens */
+@media (max-width: 992px) {
+  #myNavbar {
+    display: none;
+  }
+}
+
+/* Custom styles for Header */
+.bg-img {
+  background-image: url(/public/assets/header-img2.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: black;
+}
+
+.logo-main {
+  background-color: var(--black-transparent-light);
+}
+
+.btn {
+  min-width: 250px;
+}
+
+.btn.hover-btn:hover {
+  background-color: lightgray;
+  color: var(--black-200);
+  text-decoration: underline;
+}
+/* Custom Styles for Menu Box */
+.bg-black {
+  background-color: black;
+}
+
+.hover-red:hover {
+  background-color: rgba(255, 0, 0, 0.5);
+  color: white;
+}
+
+.active-tab {
+  background-color: red;
+  color: white;
+}
+
+.active-tab {
+  background-color: red;
+  color: white;
+}
+
+.border-dark {
+  border-color: dark-grey;
+}
+
+.badge {
+  padding: 0.6em 0.8em;
+}
+
+.small-tag {
+  padding: 0.3em 0.3em;
+}
+
+.bg-red {
+  background-color: red;
+  color: white;
+}
+
+.bg-grey {
+  background-color: grey;
+}
+
+.menu h1 {
+  color: black;
+}
+
+/* Grayscale */
+.img-grayscale {
+  filter: grayscale(100%);
+}
+
+/*XL form boxes*/
+.extra-large {
+  height: 60px;
+  font-size: 1.8rem;
+}
