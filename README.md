@@ -32,7 +32,7 @@
 <br>
 <div>
     <p align="center">
-        <a href="https://github.com/Mayanwolfe/Markdown_Live_Preview" target="_blank">
+        <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&labelColor=black&for-the-badge&logo=github"/>
         </a>
         <a href="-URL DEMO GOES HERE-" target="_blank">
@@ -44,8 +44,11 @@ a ipsum. Eos, in iusto? Iste dolorum, tempore ipsam voluptates ex aspernatur
 voluptatum veritatis rem sequi repellat laboriosam voluptate beatae eligendi. Iure voluptates possimus tempora quibusdam, iste, similique consectetur dolor adipisci unde tempore temporibus debitis, aperiam a ut exercitationem soluta est.    
     </p>
     <h3>Watch the video tutorial here::</h3>
+    <a href="https://www.youtube.com/@MayanwolfeStreams" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+    </a>&nbsp
     <a href="https://www.twitch.tv/videos/1969672680" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+      <img src="https://img.shields.io/badge/Twitch-945dea?style=plastic&labelColor=black&logo=Twitch&logoColor=%23FFF"/>
     </a>
 </div>
 <br>
@@ -72,7 +75,7 @@ voluptatum veritatis rem sequi repellat laboriosam voluptate beatae eligendi. Iu
 <br>
 <div>
     <p align="center">
-        <a href="https://github.com/Mayanwolfe/Fullstack_Template_EJS_MongoDB" target="_blank">
+        <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&labelColor=black&for-the-badge&logo=github"/>
         </a>
         <a href="-URL DEMO GOES HERE-" target="_blank">
@@ -84,8 +87,11 @@ a ipsum. Eos, in iusto? Iste dolorum, tempore ipsam voluptates ex aspernatur
 voluptatum veritatis rem sequi repellat laboriosam voluptate beatae eligendi. Iure voluptates possimus tempora quibusdam, iste, similique consectetur dolor adipisci unde tempore temporibus debitis, aperiam a ut exercitationem soluta est.    
     </p>
     <h3>Watch the video tutorial here::</h3>
+    <a href="https://www.youtube.com/@MayanwolfeStreams" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+    </a>&nbsp
     <a href="https://www.twitch.tv/videos/1951925690" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+      <img src="https://img.shields.io/badge/Twitch-945dea?style=plastic&labelColor=black&logo=Twitch&logoColor=%23FFF"/>
     </a>
 </div>
 <br>
@@ -112,7 +118,7 @@ voluptatum veritatis rem sequi repellat laboriosam voluptate beatae eligendi. Iu
 <br>
 <div>
     <p align="center">
-        <a href="https://github.com/Mayanwolfe/SocketIO_ChatApp" target="_blank">
+        <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&labelColor=black&for-the-badge&logo=github"/>
         </a>
         <a href="-URL DEMO GOES HERE-" target="_blank">
@@ -124,8 +130,11 @@ a ipsum. Eos, in iusto? Iste dolorum, tempore ipsam voluptates ex aspernatur
 voluptatum veritatis rem sequi repellat laboriosam voluptate beatae eligendi. Iure voluptates possimus tempora quibusdam, iste, similique consectetur dolor adipisci unde tempore temporibus debitis, aperiam a ut exercitationem soluta est.    
     </p>
     <h3>Watch the video tutorial here::</h3>
+    <a href="https://www.youtube.com/@MayanwolfeStreams" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+    </a>&nbsp
     <a href="https://www.twitch.tv/videos/1946045851" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+      <img src="https://img.shields.io/badge/Twitch-945dea?style=plastic&labelColor=black&logo=Twitch&logoColor=%23FFF"/>
     </a>
 </div>
 <br>
@@ -152,7 +161,7 @@ voluptatum veritatis rem sequi repellat laboriosam voluptate beatae eligendi. Iu
 <br>
 <div>
     <p align="center">
-        <a href="https://github.com/Mayanwolfe/Restaurant_Template" target="_blank">
+        <a href="https://github.com/rayanthoney/mw_wolfpack-sundays/tree/main/mw_restaurant-website-vanilla" target="_blank">
         <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&labelColor=black&for-the-badge&logo=github"/>
         </a>
         <a href="-URL DEMO GOES HERE-" target="_blank">
@@ -161,8 +170,11 @@ voluptatum veritatis rem sequi repellat laboriosam voluptate beatae eligendi. Iu
     </p>
     <p>The Restaurant Template is a simple yet elegant website built using HTML, CSS, and JavaScript. It's designed to provide a seamless user experience for restaurant owners looking to showcase their menu and services. The project consists of three main files: index.html, styles.css, and script.js.</p>
     <h3>Watch the video tutorial here::</h3>
+    <a href="https://www.youtube.com/@MayanwolfeStreams" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+    </a>&nbsp
     <a href="https://www.twitch.tv/videos/1928134407" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
+      <img src="https://img.shields.io/badge/Twitch-945dea?style=plastic&labelColor=black&logo=Twitch&logoColor=%23FFF"/>
     </a>
 </div>
 <br>
