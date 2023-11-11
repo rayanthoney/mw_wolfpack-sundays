@@ -4,7 +4,7 @@
 <!-- link to project -->
     <a href='-URL TO DEMO GOES HERE-'>
     <!-- link to local image -->
-        <img src="chat-room-frontend/src/assets/images/socketio-chatapp.png" alt="" height="100%"/>
+        <img src="chat-room-frontend/public/img/socketio-chatapp.png" alt="" height="100%"/>
     </a>
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
