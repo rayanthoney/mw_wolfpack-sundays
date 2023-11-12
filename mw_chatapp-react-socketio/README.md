@@ -10,7 +10,7 @@
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
 <p>
-<a href="https://github.com/Mayanwolfe/SocketIO_ChatApp" target="_blank">
+<a href="https://github.com/rayanthoney/mw_wolfpack-sundays/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&labelColor=black&for-the-badge&logo=github"/>
 </a>
 <a href="-URL DEMO GOES HERE-" target="_blank">
@@ -32,7 +32,7 @@
     <a href="https://www.youtube.com/@MayanwolfeStreams" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=plastic&labelColor=black&logo=youtube"/>
     </a>&nbsp
-    <a href="https://www.twitch.tv/videos/1969672680" target="_blank">
+    <a href="https://www.twitch.tv/videos/1946045851" target="_blank">
       <img src="https://img.shields.io/badge/Twitch-945dea?style=plastic&labelColor=black&logo=Twitch&logoColor=%23FFF"/>
     </a>
 </div>
