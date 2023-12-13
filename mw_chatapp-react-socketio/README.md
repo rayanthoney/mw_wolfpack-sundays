@@ -61,3 +61,5 @@ Here's where you can go to town on how you actually built this thing. Write as m
 - **styles.css**: This file holds all the custom styles. It uses Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non nemo cum a nulla magni libero odio porro culpa harum.
 
 - **script.js**: This JavaScript file adds interactivity to the Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non nemo cum a nulla magni libero odio porro culpa harum.
+
+- **script.js**: This JavaScript file adds interactivity to the Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non nemo cum a nulla magni libero odio porro culpa harum.
